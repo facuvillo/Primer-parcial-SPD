@@ -1,0 +1,28 @@
+Led_Moviendose = Es el led que nos va a indicar cuando el montacargas esta moviendose
+Resistencia_Movimeinto = Pone una resistencia electrica hacia el led que indica que el montacargas esta en movimiento(led verde)
+Led_Parado = Es el led, que nos va a indicar cuando el montacargas esta detenido 
+Resistencia_Parado = Pone una resistencia electrica hacia el led que indica que el montacargas esta parado(led rojo)
+
+Boton_Subir = Es el que le manda la señal al montacargas de subir
+Resistencia_Subir = Pone una resistencia electrica hacia el boton que da la señal de subir
+Boton_Parar = Es el que le manda la señal al montacargas de parar
+Resistencia_Parar = Pone una resistencia electrica hacia el boton que da la señal de parar
+Boton_Bajar = Es el que le manda la señal al montacargas de bajar
+Resistencia_Bajar = Pone una resistencia electrica hacia el boton que da la señal de bajar
+
+Display = Muestra en que piso se encuentra el montacargas
+Resistencia_G = Pone una resistencia electrica hacia el segmento G	del display
+Resistencia_F = Pone una resistencia electrica hacia el segmento F	del display
+Resistencia_E = Pone una resistencia electrica hacia el segmento E	del display
+Resistencia_D = Pone una resistencia electrica hacia el segmento D	del display
+Resistencia_C = Pone una resistencia electrica hacia el segmento C	del display
+Resistencia_B = Pone una resistencia electrica hacia el segmento B	del display
+Resistencia_A = Pone una resistencia electrica hacia el segmento A	del display
+
+sensorInclinacion = Mide si hay inclinacion en el montacargas
+Resistencia_inclinacion = Pone resistencia a al sensore de inclinación
+
+Servo_montacargas = El servo se mueve con el movimiento del montacargas
+
+Fotoresistor = Mide el nivel de luz
+resistencia _fotoresistencia = Pone resistencia al fotosensor
